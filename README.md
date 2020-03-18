@@ -2,28 +2,27 @@
 
 Type the command in the console:
 
-// to install packages and dependencies 
+to install packages and dependencies 
 npm install 
 
 
 after that 
 
-//to start the application  
+to start the application  
 npm run dev
 
 We are using PostgreSQL (pgadmin4)
 
 so make sure you have database set up correctly name of the table:
 
-// Database
+name of the database :
 database
 
 
-// Name of the table
+name of the table :
 bazas
 
 make sure you have correct columns :
-
 id serial primary key -> yes
 Email VARCHAR
 Password VARCHAR
